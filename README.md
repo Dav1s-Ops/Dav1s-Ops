@@ -34,6 +34,8 @@ Curious, patient, creative, and committed, I welcome you to my GitHub—the sand
 
 <div align="center">
 
+## Let's Connect!
+
 📫 [LinkedIn](https://www.linkedin.com/in/davis-weimer/)  
 📧 davisweimer@gmail.com 
 
