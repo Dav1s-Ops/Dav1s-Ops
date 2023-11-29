@@ -1,12 +1,10 @@
 <div align="center">
-
-## 🎶 Hello! 🪐
-
 <table>
     <tr>
       <td valign="top">
         <div align="center">
-          <h3>I'm Davis Weimer — A Software Engineer & Audio Engineering Professional</h3>
+          <h3>🚀 Hello! I'm Davis  🪐</h3>
+          <h3>A Software Engineer & Audio Engineering Professional</h3>
           <p>
             Curious, patient, creative, and committed, I welcome you to my GitHub—the sandbox for all things programming. You can find some of my favorite and current projects below.
           </p>
