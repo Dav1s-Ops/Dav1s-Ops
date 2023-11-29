@@ -8,7 +8,7 @@
           <p>
             Curious, patient, creative, and committed, I welcome you to my GitHub—the sandbox for all things programming. You can find some of my favorite and current projects below.
           </p>
-          <img src="https://github.com/DavisWeimer/DavisWeimer/assets/128326999/a2cec57a-870f-4016-8d16-df72aefd6191" alt="My cat" width="500" height="500"/>
+          <img src="https://github.com/DavisWeimer/DavisWeimer/assets/128326999/a2cec57a-870f-4016-8d16-df72aefd6191" alt="My cat" width="400" height="400"/>
         </div>
       </td>
       <td valign="top">
