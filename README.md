@@ -22,12 +22,12 @@
             <img src="https://skillicons.dev/icons?i=ruby,js,cpp" alt="My languages"/>
           </p>
           <h3>Frameworks and Technologies</h3>
-          <p>
-            <img src="https://skillicons.dev/icons?i=rails,react,postgres,graphql,nodejs,git,vite,bootstrap,tailwind&perline=3" alt="My frameworks"/>
+          <p align="center">
+            <img src="https://skillicons.dev/icons?i=rails,react,postgres,graphql,nodejs,bootstrap&perline=3" alt="My frameworks"/>
           </p>
           <h3>Development Tools and Environments</h3>
           <p>
-            <img src="https://skillicons.dev/icons?i=vscode,postman" alt="My development tools"/>
+            <img src="https://skillicons.dev/icons?i=vscode,postman,git" alt="My development tools"/>
           </p>
         </div>
       </td>
