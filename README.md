@@ -23,7 +23,7 @@ Curious, patient, creative, and committed, I welcome you to my GitHub—the sand
 
   <h3>Frameworks and Technologies</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=rails,react,postgres,graphql,nodejs,git" alt="My frameworks"/>
+    <img src="https://skillicons.dev/icons?i=rails,react,postgres,graphql,nodejs,git,vite,bootstrap,tailwind" alt="My frameworks"/>
   </p>
 
   <h3>Development Tools and Environments</h3>
