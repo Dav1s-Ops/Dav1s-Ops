@@ -33,7 +33,8 @@
       </td>
     </tr>
   </table>
-## Let's Connect!
+    
+<h3>Let's Connect!</h3>
 
 📫 [LinkedIn](https://www.linkedin.com/in/davis-weimer/)  
 📧 davisweimer@gmail.com 
