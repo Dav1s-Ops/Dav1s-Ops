@@ -37,6 +37,7 @@
 <h3>Let's Connect!</h3>
 
 📘 [LinkedIn](https://www.linkedin.com/in/davis-weimer/)  
+🚹 [Portfolio](https://www.dw-portfolio.com/)  
 📧 davisweimer@gmail.com 
 
 
