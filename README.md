@@ -7,7 +7,7 @@
           <p>
             <small>Curious, patient, creative, and committed, I welcome you to my GitHub—the sandbox for all things programming. You can find some of my favorite and current projects below.
           </p>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&title_color=A4F236&text_color=D8D8D8&icon_color=A4F236&hide_border=true&bg_color=303030" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavisWeimer&layout=donut-vertical&title_color=A4F236&text_color=D8D8D8&icon_color=A4F236&hide_border=true&bg_color=303030" />
 <!--             <img src="https://github.com/DavisWeimer/DavisWeimer/assets/128326999/a2cec57a-870f-4016-8d16-df72aefd6191" alt="My cat" /> -->
         </div>
       </td>
