@@ -21,22 +21,17 @@
     </td>
       <td valign="center">
         <div align="center">
-          <h4>Web Development</h4>
-          <p>
-            <img src="https://skillicons.dev/icons?i=github,html,css" alt="My Web Dev"/>
-          </p>
-            <hr>
-          <h4>Programming Languages</h4>
+          <h4>Languages</h4>
           <p>
             <img src="https://skillicons.dev/icons?i=ruby,js,cpp" alt="My languages"/>
           </p>
             <hr>
-          <h4>Frameworks and Technologies</h4>
+          <h4>Technologies</h4>
           <p align="center">
-            <img src="https://skillicons.dev/icons?i=rails,react,postgres,graphql,nodejs,bootstrap&perline=3" alt="My frameworks"/>
+            <img src="https://skillicons.dev/icons?i=rails,react,postgres,redis,graphql,nodejs,bootstrap,vite,tailwind&perline=3" alt="My frameworks"/>
           </p>
             <hr>
-          <h4>Development Tools and Environments</h4>
+          <h4>Dev Tools</h4>
           <p>
             <img src="https://skillicons.dev/icons?i=vscode,postman,git" alt="My development tools"/>
           </p>
