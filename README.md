@@ -15,7 +15,7 @@
             <a href="https://open.spotify.com/user/davis.weimer?si=60942ca615b740b6">
               <img src="https://spotify-github-profile.vercel.app/api/view?uid=davis.weimer&cover_image=true&theme=default&show_offline=false&background_color=303030&interchange=false&bar_color=a4f236" alt="spotify-github-profile" />
             </a>
-            <img src="https://github-readme-stats.vercel.app/api?username=DavisWeimer&show_icons=true&theme=merko" />
+            <img src="https://github-readme-stats.vercel.app/api?username=DavisWeimer&show_icons=true&title_color=A4F236&text_color=D8D8D8&icon_color=A4F236&hide_border=true&bg_color=303030" />
         </div>
     </td>
       <td valign="center">
