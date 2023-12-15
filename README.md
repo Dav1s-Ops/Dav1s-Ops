@@ -8,7 +8,9 @@
           <p>
             Curious, patient, creative, and committed, I welcome you to my GitHub—the sandbox for all things programming. You can find some of my favorite and current projects below.
           </p>
-          <img src="https://github.com/DavisWeimer/DavisWeimer/assets/128326999/a2cec57a-870f-4016-8d16-df72aefd6191" alt="My cat" width="400" height="400"/>
+            <a href="https://open.spotify.com/user/davis.weimer?si=60942ca615b740b6">
+              <img src="https://spotify-github-profile.vercel.app/api/view?uid=davis.weimer&cover_image=true&theme=default&show_offline=false&background_color=303030&interchange=false&bar_color=a4f236" alt="spotify-github-profile" />
+            </a>
         </div>
       </td>
       <td valign="top">
