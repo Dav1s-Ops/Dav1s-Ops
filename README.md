@@ -1,12 +1,11 @@
 <div align="center">
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed; padding-left: 20px; padding-right: 20px; ">
     <tr>
-      <td width="360" valign="center">
+      <td width="320" valign="center">
         <div align="center">
-          <h3>🚀 Hello! I'm Davis  🪐</h3>
-          <h3>A Software Engineer & Audio Engineering Professional</h3>
+          <h1>Hello! I'm Davis  🪐</h1>
           <p>
-            Curious, patient, creative, and committed, I welcome you to my GitHub—the sandbox for all things programming. You can find some of my favorite and current projects below.
+            <small>Curious, patient, creative, and committed, I welcome you to my GitHub—the sandbox for all things programming. You can find some of my favorite and current projects below.
           </p>
             <img src="https://github.com/DavisWeimer/DavisWeimer/assets/128326999/a2cec57a-870f-4016-8d16-df72aefd6191" alt="My cat" />
         </div>
