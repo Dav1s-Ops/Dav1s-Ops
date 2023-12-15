@@ -11,7 +11,7 @@
 <!--             <img src="https://github.com/DavisWeimer/DavisWeimer/assets/128326999/a2cec57a-870f-4016-8d16-df72aefd6191" alt="My cat" /> -->
         </div>
       </td>
-    <td width="380" valign="center">
+    <td width="340" valign="center">
         <div align="center">
             <a href="https://open.spotify.com/user/davis.weimer?si=60942ca615b740b6">
               <img src="https://spotify-github-profile.vercel.app/api/view?uid=davis.weimer&cover_image=true&theme=default&show_offline=false&background_color=303030&interchange=false&bar_color=a4f236" alt="spotify-github-profile" />
