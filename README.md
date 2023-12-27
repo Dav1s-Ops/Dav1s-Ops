@@ -35,6 +35,7 @@
           <p>
             <img src="https://skillicons.dev/icons?i=vscode,postman,git" alt="My development tools"/>
           </p>
+            <img src="https://komarev.com/ghpvc/?username=DavisWeimer&color=A4F236&base=1000"/>
         </div>
       </td>
     </tr>
