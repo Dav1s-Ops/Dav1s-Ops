@@ -28,7 +28,7 @@
             <hr>
           <h4>Technologies</h4>
           <p align="center">
-            <img src="https://skillicons.dev/icons?i=rails,react,postgres,redis,graphql,nodejs,bootstrap,vite,tailwind&perline=3" alt="My frameworks"/>
+            <img src="https://skillicons.dev/icons?i=rails,react,postgres,redis,graphql,bootstrap,nodejs,cypress,tailwind,docker,aws,linux&perline=3" alt="My frameworks"/>
           </p>
             <hr>
           <h4>Dev Tools</h4>
