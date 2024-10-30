@@ -23,7 +23,7 @@
         <div align="center">
           <h4>Languages</h4>
           <p>
-            <img src="https://skillicons.dev/icons?i=ruby,js,cpp" alt="My languages"/>
+            <img src="https://skillicons.dev/icons?i=ruby,js,python" alt="My languages"/>
           </p>
             <hr>
           <h4>Technologies</h4>
