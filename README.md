@@ -44,7 +44,7 @@
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dav1s-Ops/Dav1s-Ops/output/github-contribution-grid-snake.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dav1s-Ops/Dav1s-Ops/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Dav1s-Ops/Dav1s-Ops/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions, dang it!" width="75%" title="hungry snake">
+    <img src="https://raw.githubusercontent.com/Dav1s-Ops/Dav1s-Ops/output/github-contribution-grid-snake-dark.svg" alt="nom nom nom, a snake eats my commits!" width="75%" title="hungry snake">
   </picture>
 
 
