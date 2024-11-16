@@ -40,7 +40,13 @@
       </td>
     </tr>
   </table>
-    
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+
 <h3>Let's Connect!</h3>
 <a target="_blank" href="https://www.linkedin.com/in/davis-weimer/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-303030?style=for-the-badge&logo=Linkedin&logoColor=A4F236"></img></a>
 <a target="_blank" href="mailto:davisweimer@gmail.com" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-303030?style=for-the-badge&logo=Gmail&logoColor=A4F236"></img></a>
