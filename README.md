@@ -42,10 +42,11 @@
   </table>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dav1s-Ops/Dav1s-Ops/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dav1s-Ops/Dav1s-Ops/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Dav1s-Ops/Dav1s-Ops/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions, dang it!" width="75%" title="hungry snake">
   </picture>
+
 
 <h3>Let's Connect!</h3>
 <a target="_blank" href="https://www.linkedin.com/in/davis-weimer/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-303030?style=for-the-badge&logo=Linkedin&logoColor=A4F236"></img></a>
