@@ -23,17 +23,17 @@
         <div align="center">
           <h4>Languages</h4>
           <p>
-            <img src="https://skillicons.dev/icons?i=ruby,js,python" alt="My languages"/>
+            <img src="https://skillicons.dev/icons?i=ruby,js,cs" alt="My languages"/>
           </p>
             <hr>
           <h4>Technologies</h4>
           <p align="center">
-            <img src="https://skillicons.dev/icons?i=rails,react,postgres,redis,graphql,bootstrap,nodejs,cypress,tailwind,docker,aws,linux&perline=3" alt="My frameworks"/>
+            <img src="https://skillicons.dev/icons?i=rails,react,postgres,redis,graphql,dotnet,nodejs,cypress,tailwind,docker,aws,linux&perline=3" alt="My frameworks"/>
           </p>
             <hr>
           <h4>Dev Tools</h4>
           <p>
-            <img src="https://skillicons.dev/icons?i=vscode,postman,git" alt="My development tools"/>
+            <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" alt="My development tools"/>
           </p>
             <img src="https://komarev.com/ghpvc/?username=Dav1s-Ops&color=A4F236&base=1000"/>
         </div>
