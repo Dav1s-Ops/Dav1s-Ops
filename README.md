@@ -13,7 +13,7 @@
             <div align="center">
                <h4>Languages</h4>
                <p>
-                  <img src="https://skillicons.dev/icons?i=ruby,js,cs,cpp,go,ts&perline=3" alt="My languages"/>
+                  <img src="https://skillicons.dev/icons?i=ruby,js,cs" alt="My languages"/>
                </p>
                <hr>
                <h4>Technologies</h4>
