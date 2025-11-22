@@ -13,7 +13,7 @@
 </div>
 
 <h2>About me!</h2>
-<p><b>Full-Stack Engineer</b> who ships production-grade apps that don’t wake me up at 3 AM. (Mostly!)</p>
+<p><b>Full-Stack Engineer</b> who ships production-grade apps!</p>
 
 - 🚀 I build **fast**, **scalable**, and **awesome** web apps!
 - ☁️ Cloud & DevOps addict: AWS <-> Terraform <-> Docker <-> GitHub Actions 
