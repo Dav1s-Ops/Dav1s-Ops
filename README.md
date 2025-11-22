@@ -10,24 +10,25 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dav1s-ops&theme=chartreuse_dark" />
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dav1s-ops&theme=chartreuse_dark&utcOffset=-6" />
    </p>
+</div>
 
-   <!-- Resume-Based Sections -->
-   <h2>About me!</h2>
-   <p>Hey! I'm a Software Engineer with expertise in full-stack development, cloud infrastructure, and automation. I've got experience in building scalable applications, optimizing CI/CD pipelines, and integrating APIs for the best UX/DX. I transitioned from an audio engineering and production career into software, and have been loving every second!</p>
+<h2>About me!</h2>
+<p><b>Full-Stack Engineer</b> who ships production-grade apps that don’t wake me up at 3 AM. (Mostly!)</p>
 
-   <h3>Skills</h3>
+- 🚀 I build **fast**, **scalable**, and **awesome** web apps!
+- ☁️ Cloud & DevOps addict: AWS <-> Terraform <-> Docker <-> GitHub Actions 
+- 🔄 Turn messy CI/CD pipelines into smooth ops  
+- 🎛️ Former **audio engineer & music producer** → traded Ableton & Protools for Kubernetes    
+- 🎯 Currently making things snappy and intuitive
 
+<div align="center">
    <!-- Languages (updated from resume) -->
    <h4>Languages</h4>
    <img src="https://skillicons.dev/icons?i=ruby,cs,py,js,ts,html,css" alt="My languages"/>
 
    <!-- Technologies/Tools (expanded from resume) -->
    <h4>Technologies & Tools</h4>
-   <img src="https://skillicons.dev/icons?i=rails,react,dotnet,mysql,postgres,redis,graphql,nodejs,cypress,tailwind,docker,aws,linux,git&perline=7" alt="My technologies" />
-
-   <!-- Infrastructure -->
-   <h4>Infrastructure</h4>
-   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes" alt="My infrastructure" />
+   <img src="https://skillicons.dev/icons?i=rails,react,dotnet,mysql,postgres,redis,graphql,nodejs,cypress,tailwind,linux,cloudflare,aws,terraform,docker,kubernetes&perline=8" alt="My technologies" />
 
    <!-- Dev Tools (updated) -->
    <h4>Dev Tools</h4>
@@ -44,7 +45,7 @@
    <br></br>
    <!-- Spotify -->
    <a href="https://github.com/kittinan/spotify-github-profile">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=davis.weimer&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=a4f236&bar_color_cover=false" alt="Spotify Playing" width="35%" />
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=davis.weimer&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=a4f236&bar_color_cover=false" alt="Spotify Playing"  />
    </a>
    <br></br>
    <!-- Profile Views -->
