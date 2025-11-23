@@ -1,6 +1,6 @@
 <div align="center">
    <!-- Typing SVG -->
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=A4F236&center=true&width=500&lines=Howdy!+I'm+Davis.;Keep+scrolling+to+learn+more+about+me!" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A4F236&center=true&width=500&lines=Howdy!+I'm+Davis.;This+is+where+all+my+code+things+live!;Take+a+scroll+and+see!" alt="Typing SVG" /></a>
 
    <!-- GitHub Stats – Full width on top -->
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dav1s-ops&theme=chartreuse_dark" alt="GitHub Detailed Stats" />
