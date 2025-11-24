@@ -17,7 +17,7 @@
 
 - 🚀 I build **fast**, **scalable**, and **awesome** web apps!
 - ☁️ Cloud & DevOps addict: AWS <-> Terraform <-> Docker <-> GitHub Actions 
-- 🔄 Turning messy CI/CD pipelines into smooth ops on workflow at a time  
+- 🔄 Turning messy CI/CD pipelines into smooth ops one workflow at a time  
 - 🎛️ Former **audio engineer & music producer** → traded Ableton & Protools for Visual Studio & VS Code    
 
 <div align="center">
