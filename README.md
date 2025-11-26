@@ -15,7 +15,7 @@
 <h2>About me!</h2>
 <p><b>Fullstack Engineer</b> who ships production-grade apps!</p>
 
-- 🚀 I build **fast**, **scalable**, and **awesome** web apps!
+- 💫 I like to build **fast**, **scalable**, and **awesome** web apps!
 - ☁️ Cloud & DevOps addict: AWS <-> Terraform <-> Docker <-> GitHub Actions 
 - 🔄 Turning messy CI/CD pipelines into smooth ops one workflow at a time  
 - 🎛️ Former **audio engineer & music producer** → traded Ableton & Protools for Visual Studio & VS Code    
@@ -35,13 +35,16 @@
 
    <hr></hr>
    <!-- Snake + Contribution Message -->
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4F236&center=true&repeat=false&width=500&height=40&lines=Commit+often+to+keep+the+Octocat+fed!" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4F236&center=true&repeat=false&size=16&width=500&height=30&lines=Commit+often+to+keep+the+Octocat+fed!" alt="Typing SVG" /></a>
    <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dav1s-Ops/Dav1s-Ops/output/github-contribution-grid-snake.svg">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dav1s-Ops/Dav1s-Ops/output/github-contribution-grid-snake-dark.svg">
       <img src="https://raw.githubusercontent.com/Dav1s-Ops/Dav1s-Ops/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake" width="75%">
    </picture>
    <br></br>
+   <div>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4F236&center=true&repeat=false&size=16&width=500&height=30&lines=Currently+jammin'+to:" alt="Typing SVG" /></a>
+   </div>
    <!-- Spotify -->
    <a href="https://github.com/kittinan/spotify-github-profile">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=davis.weimer&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=a4f236&bar_color_cover=false" alt="Spotify Playing"  />
