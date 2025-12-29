@@ -27,7 +27,7 @@
 
    <!-- Technologies/Tools (expanded from resume) -->
    <h4>Technologies & Tools</h4>
-   <img src="https://skillicons.dev/icons?i=rails,react,dotnet,mysql,postgres,redis,graphql,nodejs,cypress,tailwind,linux,cloudflare,aws,terraform,docker,kubernetes&perline=8" alt="My technologies" />
+   <img src="https://skillicons.dev/icons?i=rails,react,dotnet,mysql,postgres,graphql,nodejs,cypress,tailwind,linux,aws,terraform,docker,kubernetes&perline=7" alt="My technologies" />
 
    <!-- Dev Tools (updated) -->
    <h4>Dev Tools</h4>
