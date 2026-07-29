@@ -46,7 +46,7 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4F236&center=true&repeat=false&size=14&width=500&height=20&lines=Current+jam" alt="Typing SVG" /></a>
    </div>
    <!-- Spotify -->
-   <a href="https://github.com/kittinan/spotify-github-profile">
+   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=davis.weimer&redirect=true">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=davis.weimer&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=a4f236&bar_color_cover=false" alt="Spotify Playing"  />
    </a>
    <br></br>
