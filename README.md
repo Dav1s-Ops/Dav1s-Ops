@@ -44,5 +44,5 @@
       </a>
       <br></br>
       <!-- Profile Views -->
-         <img src="https://komarev.com/ghpvc/?username=Dav1s-Ops&color=A4F236&base=1000" alt="Profile views"/>
+      <img src="https://komarev.com/ghpvc/?username=Dav1s-Ops&color=A4F236&base=1000" alt="Profile views"/>
    </div>
