@@ -11,7 +11,7 @@
 -->
    <h3><b>Fullstack Engineer</b> who ships production-grade apps!</h3>
    <ul>
-      <li>💫 I like to build fast, **scalable, and awesome web apps!</li>
+      <li>💫 I like to build fast, scalable, and awesome web apps!</li>
       <li>🎛️ Former audio engineer & music producer → traded Ableton & Pro Tools for Visual Studio & VS Code</li>
       <li>📖 Learning new tech and understanding old patterns to improve UX/DX</li>
    </ul>
