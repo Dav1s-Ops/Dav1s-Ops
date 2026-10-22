@@ -18,7 +18,7 @@
 
    <!-- Languages (updated from resume) -->
    <h4>Languages</h4>
-   <img src="https://skillicons.dev/icons?i=ruby,cs,py,js,ts,html,css" alt="My languages"/>
+   <img src="https://skillicons.dev/icons?i=ruby,cs,java,py,js,ts,html,css" alt="My languages"/>
 
    <!-- Technologies/Tools (expanded from resume) -->
    <h4>Technologies & Tools</h4>
