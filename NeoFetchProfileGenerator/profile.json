@@ -4,7 +4,7 @@
   "charWidthEm": 0.6,
   "fontFile": "fonts/SometypeMono-Regular.woff2",
   "fontFamily": "SometypeMono",
-  "artScale": 0.75,
+  "artScale": 1,
   "rows": [
     { "label": "OS",            "value": "Ubuntu 26.04 (Resolute Raccoon) x86_64" },
     { "label": "Host",          "value": "Earth (Alpha Quadrant)" },

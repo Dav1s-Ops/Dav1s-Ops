@@ -41,8 +41,9 @@ var barRel = bottomRel + step;
 var infoH = fontSize + barRel + 6;
 var artTotalH = ascii.Length * cellH;
 var contentH = Math.Max(infoH, artTotalH);
-var infoOff = (contentH - infoH) / 2;   // center whichever side is shorter
-var artOff = (contentH - artTotalH) / 2;
+var artOff = Math.Max(0, (infoH - artTotalH) / 2);
+var k = Math.Max(0, (int)Math.Round((artTotalH - infoH) / 2 / cellH));
+var infoOff = artOff + fontSize * (artScale - 1) + k * cellH;
 
 var y0 = pad + infoOff + fontSize;
 var topY = y0 + topRel;
