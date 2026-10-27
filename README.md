@@ -1,3 +1,5 @@
+<img src="NeoFetchProfileGenerator/prompt.svg" alt="" height="50"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=300&height=50&lines=sudo+apt+update;sudo+apt+install+fastfetch;fastfetch"><img alt="Typing SVG" height="50" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&pause=1000&color=24292F&vCenter=true&repeat=false&width=300&height=50&lines=sudo+apt+update;sudo+apt+install+fastfetch;fastfetch"></picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="NeoFetchProfileGenerator/dark_mode.svg">
   <img alt="Davis's profile" src="NeoFetchProfileGenerator/light_mode.svg">
@@ -37,7 +39,6 @@
       <img src="https://raw.githubusercontent.com/Dav1s-Ops/Dav1s-Ops/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake" width="75%">
    </picture>
 -->
-   <hr></hr>
    <div align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=davis.weimer&redirect=true">
          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=davis.weimer&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=a4f236&bar_color_cover=false" alt="Spotify Playing"  />
