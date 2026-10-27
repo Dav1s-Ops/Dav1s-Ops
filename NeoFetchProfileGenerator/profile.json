@@ -1,0 +1,22 @@
+{
+  "user": "dav1s-ops@github",
+  "rowSpacing": 1,
+  "charWidthEm": 0.6,
+  "fontFile": "fonts/SometypeMono-Regular.woff2",
+  "fontFamily": "SometypeMono",
+  "artScale": 0.75,
+  "rows": [
+    { "label": "OS",            "value": "Ubuntu 26.04 (Resolute Raccoon) x86_64" },
+    { "label": "Host",          "value": "Earth (Alpha Quadrant)" },
+    { "label": "Kernel",        "value": "Sonepar USA" },
+    { "label": "Uptime",        "value": "280512 hours, 32 mins" },
+    { "label": "Packages",      "value": "1125 (dpkg)" },
+    { "label": "Shell",         "value": "bash 5.3.9" },
+    { "label": "Display",       "value": "3440x1440, 60Hz" },
+    { "label": "Memory",        "value": "2.87 / 31.10 GiB (9%)" },
+    { "label": "Disk",          "value": "Full of side projects (67%)" },
+    { "label": "Battery",       "value": "89% [Charging, Coffee brewing]" },
+    { "label": "Hobbies",       "value": "MtG, Reading, Soccer" },
+    { "label": "Music",         "value": "Drum & Bass, Electronic, Metal" }
+  ]
+}
