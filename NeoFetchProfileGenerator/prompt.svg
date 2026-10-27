@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="50" viewBox="0 0 192 50">
+  <style>
+    text { font: 300 16px 'Fira Code', monospace; }
+    .user { fill: #1a7f37; }
+    .path { fill: #0969da; }
+    .sym  { fill: #24292f; }
+    @media (prefers-color-scheme: dark) {
+      .user { fill: #7ee787; }
+      .path { fill: #58a6ff; }
+      .sym  { fill: #f7f7f7; }
+    }
+  </style>
+  <text x="0" y="25" dominant-baseline="central" xml:space="preserve"><tspan class="user">dav1s-ops@github</tspan><tspan class="sym">:</tspan><tspan class="path">~</tspan><tspan class="sym">$ </tspan></text>
+</svg>
